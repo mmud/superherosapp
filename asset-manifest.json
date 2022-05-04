@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/superherosapp/static/css/main.c3f8e8bf.chunk.css",
+    "main.js": "/superherosapp/static/js/main.e67bba7a.chunk.js",
+    "main.js.map": "/superherosapp/static/js/main.e67bba7a.chunk.js.map",
+    "runtime-main.js": "/superherosapp/static/js/runtime-main.39bd4945.js",
+    "runtime-main.js.map": "/superherosapp/static/js/runtime-main.39bd4945.js.map",
+    "static/js/2.8d4d1261.chunk.js": "/superherosapp/static/js/2.8d4d1261.chunk.js",
+    "static/js/2.8d4d1261.chunk.js.map": "/superherosapp/static/js/2.8d4d1261.chunk.js.map",
+    "index.html": "/superherosapp/index.html",
+    "static/css/main.c3f8e8bf.chunk.css.map": "/superherosapp/static/css/main.c3f8e8bf.chunk.css.map",
+    "static/js/2.8d4d1261.chunk.js.LICENSE.txt": "/superherosapp/static/js/2.8d4d1261.chunk.js.LICENSE.txt",
+    "static/media/7d441fa1467d5e2e92d6b2622455c586.e4a6dac0.png": "/superherosapp/static/media/7d441fa1467d5e2e92d6b2622455c586.e4a6dac0.png",
+    "static/media/EVmz8acUEAEmWeX.e2d7f367.jpg": "/superherosapp/static/media/EVmz8acUEAEmWeX.e2d7f367.jpg",
+    "static/media/HGMtO8W.47bb25d5.jpg": "/superherosapp/static/media/HGMtO8W.47bb25d5.jpg",
+    "static/media/d9pry2o-2237c17f-8bd1-4fdf-b216-0b0617752af0.bcd2e0e8.png": "/superherosapp/static/media/d9pry2o-2237c17f-8bd1-4fdf-b216-0b0617752af0.bcd2e0e8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39bd4945.js",
+    "static/js/2.8d4d1261.chunk.js",
+    "static/css/main.c3f8e8bf.chunk.css",
+    "static/js/main.e67bba7a.chunk.js"
+  ]
+}
